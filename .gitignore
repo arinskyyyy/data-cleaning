@@ -1,8 +1,14 @@
-/.config/
-/drive/
-/sample_data/
-*.gdoc
-*.gsheet
-*.gslides
-*.ipynb_checkpoints/
+# Colab / Jupyter folders
+.config/
+sample_data/
+.ipynb_checkpoints/
 __pycache__/
+
+# Data files (Keep your raw and large data local)
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# Ignore secret keys if you ever download them
+*.json

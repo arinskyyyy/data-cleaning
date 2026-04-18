@@ -1,0 +1,4 @@
+# Only list libraries not standard to Colab, or specific versions you rely on
+fuzzywuzzy==0.18.0
+python-Levenshtein
+beautifulsoup4
