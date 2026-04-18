@@ -1,14 +1,8 @@
-# Colab / Jupyter folders
-.config/
-sample_data/
-.ipynb_checkpoints/
+# Ignore Python cache
 __pycache__/
+*.pyc
 
-# Data files (Keep your raw and large data local)
-*.csv
-*.xlsx
-*.parquet
-*.zip
+# Ignore dataset files
 
-# Ignore secret keys if you ever download them
-*.json
+# Ignore specific folders
+my_private_data/
