@@ -1,0 +1,8 @@
+/.config/
+/drive/
+/sample_data/
+*.gdoc
+*.gsheet
+*.gslides
+*.ipynb_checkpoints/
+__pycache__/
