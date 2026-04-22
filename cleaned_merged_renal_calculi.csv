@@ -1,0 +1,8 @@
+Plant_ID,Scientific_Name,Common_Name,Family,Part_Used,Traditional_Use,Compound_ID,Phytochemical_Name,Compound_Class,Mechanism_of_Action,PubChem_CID
+HD_001,Phyllanthus niruri,Chanca Piedra,Phyllanthaceae,Whole plant,Stone breaker; diuretic,PC_101,Phyllanthin,Lignan,Inhibits calcium oxalate crystal internalization,103130
+HD_001,Phyllanthus niruri,Chanca Piedra,Phyllanthaceae,Whole plant,Stone breaker; diuretic,PC_102,Rutin,Flavonoid,Antioxidant; reduces oxidative stress in kidneys,5280805
+HD_002,Boerhavia diffusa,Punarnava,Nyctaginaceae,Roots,Anti-inflammatory; lithotriptic,PC_103,Punarnavine,Alkaloid,Diuretic action; flushing out small stones,11306634
+HD_003,Tribulus terrestris,Gokshura,Zygophyllaceae,Fruits,Diuretic; reduces oxalate excretion,PC_104,Protodioscin,Saponin,Increases urine volume; alters urinary chemistry,12304192
+HD_004,Bergenia ligulata,Pashanbheda,Saxifragaceae,Rhizome,Dissolves calcium oxalate stones,PC_105,Bergenin,C-glycoside,Inhibits crystal aggregation; diuretic,73019
+HD_005,Crateva magna,Varuna,Capparaceae,Bark,Prevents stone formation; diuretic,PC_106,Lupeol,Triterpenoid,Reduces renal tissue damage; anti-inflammatory,259846
+HD_007,Dolichos biflorus,Horse gram,Fabaceae,Seeds,Antilithiatic; reduces crystal growth,PC_107,Quercetin,Flavonoid,Antioxidant; decreases calcium oxalate supersaturation,5280343

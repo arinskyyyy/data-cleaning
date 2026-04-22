@@ -1,0 +1,8 @@
+Compound_ID,Scientific_Name,Phytochemical_Name,Compound_Class,Mechanism_of_Action,PubChem_CID
+PC_101,Phyllanthus niruri,Phyllanthin,Lignan,Inhibits calcium oxalate crystal internalization,103130
+PC_102,Phyllanthus niruri,Rutin,Flavonoid,Antioxidant; reduces oxidative stress in kidneys,5280805
+PC_103,Boerhavia diffusa,Punarnavine,Alkaloid,Diuretic action; flushing out small stones,11306634
+PC_104,Tribulus terrestris,Protodioscin,Saponin,Increases urine volume; alters urinary chemistry,12304192
+PC_105,Bergenia ligulata,Bergenin,C-glycoside,Inhibits crystal aggregation; diuretic,73019
+PC_106,Crateva magna,Lupeol,Triterpenoid,Reduces renal tissue damage; anti-inflammatory,259846
+PC_107,Dolichos biflorus,Quercetin,Flavonoid,Antioxidant; decreases calcium oxalate supersaturation,5280343
