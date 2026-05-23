@@ -1,5 +1,0 @@
-name: pokemonenv
-channels:
-  - defaults
-dependencies: []
-prefix: /opt/miniconda3/envs/pokemonenv

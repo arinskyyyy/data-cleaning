@@ -1,0 +1,326 @@
+order_id,customer_email,sku,amount,currency,order_date,order_notes,status
+ORD00166,user131@example.com,SKU-721,761.08,usd,2023-06-25,sandbox,COMPLETED
+ORD00097,user182@example.com,sku324,62.26,Eur,2022-03-03,,COMPLETED
+ORD00106,user122@example.com,SKU-735,1702.65,EUR,14/8/2024,urgent,pending
+ORD00054,user95@example.com,sku873,367.77,EUR,Sep-14-2022,,COMPLETED
+ORD00095,user29@example.com,sku775,428.18,GBP,3/6/2024,real,COMPLETED
+ORD00100,user150@example.com,SKU-240,1596.68,EUR,20/10/2023,urgent,pending
+ORD00047,user186@example.com,SKU-742,683.98,USD,2022-05-14,real,COMPLETED
+ORD00291,user162@example.com,sku416,1761.24,Eur,2022-12-18,,completed
+ORD00227,,SKU-134,1403.86,INR,19/9/2022,,Pending
+ORD00261,user168@example.com,SKU-849,556.16,EUR,Jul-6-2022,,completed
+ORD00264,user199@example.com,sku402,25.25,GBP,2023-05-16,sandbox,COMPLETED
+ORD00067,user59@example.com,SKU-525,1896.38,USD,3/3/2023,,completed
+ORD00115,user150@example.com,sku235,175.8,USD,2023-05-16,,completed
+ORD00045,user135@example.com,SKU-997,1441.55,USD,12/5/2022,sandbox,completed
+ORD00208,user159@example.com,SKU-643,979.71,inr,Nov-16-2024,test order,completed
+ORD00045,user98@example.com,SKU-379,1517.54,usd,Apr-15-2022,sandbox,completed
+ORD00075,user175@example.com,SKU-363,1382.77,EUR,10/1/2023,,pending
+ORD00278,user147@example.com,SKU-593,1293.58,Eur,2024-07-26,,refunded
+ORD00229,user29@example.com,SKU-402,984.19,usd,2023-06-14,,pending
+ORD00181,user113@example.com,SKU-446,1586.9,EUR,Oct-5-2023,,COMPLETED
+ORD00199,user39@example.com,SKU-579,190.64,usd,2024-12-07,real,pending
+ORD00214,user53@example.com,sku244,447.08,inr,2023-03-13,urgent,completed
+ORD00223,user199@example.com,sku331,1385.12,GBP,2023-12-23,test order,refunded
+ORD00286,user121@example.com,SKU-841,615.88,Eur,Aug-19-2022,,pending
+ORD00091,user189@example.com,SKU-506,1165.2,USD,2023-05-27,urgent,Pending
+ORD00140,user181@example.com,SKU-923,949.15,INR,2023-02-19,urgent,pending
+ORD00212,user54@example.com,SKU-192,1064.19,usd,19/9/2022,,completed
+ORD00205,user170@example.com,SKU-114,853.88,USD,Sep-1-2024,test order,COMPLETED
+ORD00017,user97@example.com,SKU-226,1493.14,Eur,2024-04-15,,Pending
+ORD00200,user45@example.com,SKU-788,664.93,EUR,2024-02-27,sandbox,Pending
+ORD00090,user137@example.com,sku368,1407.2,usd,2024-08-05,,COMPLETED
+ORD00126,user91@example.com,SKU-942,545.48,Eur,May-8-2023,urgent,completed
+ORD00101,user185@example.com,SKU-480,506.55,inr,Mar-23-2023,,completed
+ORD00183,user178@example.com,sku339,245.71,INR,2022-08-20,,refunded
+ORD00027,user124@example.com,SKU-734,389.21,USD,2024-07-18,,COMPLETED
+ORD00257,user64@example.com,SKU-674,243.51,USD,Dec-14-2024,,completed
+ORD00226,user77@example.com,SKU-724,1074.05,GBP,26/6/2024,,pending
+ORD00216,user77@example.com,SKU-164,1525.57,GBP,Oct-21-2022,,pending
+ORD00168,user181@example.com,SKU-575,374.37,inr,25/4/2024,test order,Pending
+ORD00092,user181@example.com,sku409,436.69,Eur,Jun-6-2024,test order,pending
+ORD00232,user123@example.com,SKU-219,970.98,EUR,Jan-19-2024,,refunded
+ORD00026,user185@example.com,SKU-138,1450.55,usd,Nov-13-2023,,completed
+ORD00292,user32@example.com,sku604,1953.33,USD,2022-01-04,urgent,completed
+ORD00270,user140@example.com,sku340,1051.65,INR,2022-09-24,,completed
+ORD00039,user102@example.com,sku238,569.58,GBP,Sep-19-2024,urgent,pending
+ORD00141,user198@example.com,sku479,205.55,Eur,Apr-15-2023,test order,Pending
+ORD00086,user75@example.com,SKU-860,392.26,GBP,2023-11-19,,pending
+ORD00297,,SKU-653,458.83,GBP,Sep-5-2023,sandbox,COMPLETED
+ORD00157,user21@example.com,SKU-860,362.99,usd,16/2/2023,real,completed
+ORD00123,user114@example.com,SKU-524,33.23,usd,2022-02-27,,COMPLETED
+ORD00011,user192@example.com,sku953,1070.6,USD,Mar-12-2023,,completed
+ORD00073,user52@example.com,SKU-517,552.25,Eur,2023-04-17,urgent,Pending
+ORD00172,user70@example.com,sku386,1948.72,GBP,2023-08-04,urgent,COMPLETED
+ORD00124,user179@example.com,,1108.95,INR,2024-12-15,real,completed
+ORD00102,user28@example.com,SKU-554,1396.35,EUR,2022-05-02,sandbox,pending
+ORD00120,user151@example.com,SKU-341,256.93,usd,Feb-1-2023,,refunded
+ORD00158,user13@example.com,SKU-201,1737.58,GBP,Feb-22-2022,,COMPLETED
+ORD00178,user136@example.com,SKU-476,984.3,GBP,Apr-17-2022,urgent,Pending
+ORD00081,user60@example.com,sku760,1746.08,GBP,Mar-11-2024,,completed
+ORD00004,,SKU-507,1150.26,Eur,2023-04-26,urgent,Pending
+ORD00035,user184@example.com,SKU-225,941.45,GBP,2024-03-06,,completed
+ORD00288,user175@example.com,SKU-943,883.74,USD,Nov-14-2023,,refunded
+ORD00066,user2@example.com,SKU-778,372.81,Eur,24/10/2022,,Pending
+ORD00078,user41@example.com,SKU-754,107.5,INR,2024-07-13,,pending
+ORD00160,user122@example.com,SKU-121,1882.42,GBP,23/4/2022,,pending
+ORD00038,user52@example.com,,958.07,Eur,2024-02-19,sandbox,Pending
+ORD00107,user74@example.com,SKU-228,1645.12,GBP,26/9/2022,real,COMPLETED
+ORD00020,user166@example.com,SKU-310,804.41,Eur,2023-04-15,urgent,COMPLETED
+ORD00082,,,152.79,usd,9/11/2023,sandbox,COMPLETED
+ORD00234,user167@example.com,SKU-312,1260.74,Eur,Nov-11-2024,urgent,completed
+ORD00284,user137@example.com,SKU-932,111.95,USD,2024-07-19,,COMPLETED
+ORD00148,user10@example.com,SKU-436,302.65,GBP,12/6/2023,,completed
+ORD00174,user45@example.com,SKU-907,1127.86,GBP,Mar-27-2024,,Pending
+ORD00259,user46@example.com,sku102,611.15,usd,May-20-2024,,completed
+ORD00288,user10@example.com,SKU-248,1987.87,Eur,22/3/2023,sandbox,refunded
+ORD00049,user102@example.com,SKU-653,241.31,inr,8/5/2022,urgent,refunded
+ORD00089,user48@example.com,SKU-278,1530.06,INR,12/12/2022,,Pending
+ORD00273,user75@example.com,SKU-987,1214.6,Eur,Jul-14-2024,urgent,COMPLETED
+ORD00110,user3@example.com,,1582.53,usd,19/7/2023,,completed
+ORD00202,user155@example.com,,455.25,USD,16/11/2024,urgent,pending
+ORD00180,,sku343,1047.53,usd,Nov-6-2024,real,pending
+ORD00198,user73@example.com,SKU-116,903.78,INR,16/5/2022,test order,completed
+ORD00231,user165@example.com,SKU-153,888.23,GBP,11/8/2024,,COMPLETED
+ORD00112,user127@example.com,SKU-531,1721.03,GBP,28/6/2022,,Pending
+ORD00189,user35@example.com,SKU-863,1980.11,usd,2022-04-27,sandbox,Pending
+ORD00012,user120@example.com,,614.23,EUR,2024-09-21,real,completed
+ORD00145,user29@example.com,SKU-470,1243.95,INR,2023-11-16,,Pending
+ORD00070,user188@example.com,SKU-211,1221.21,GBP,2024-08-16,real,completed
+ORD00114,user66@example.com,sku326,1481.48,inr,3/10/2022,sandbox,refunded
+ORD00155,user4@example.com,SKU-144,1895.44,GBP,10/1/2023,sandbox,completed
+ORD00213,user76@example.com,SKU-987,419.54,USD,18/5/2022,sandbox,pending
+ORD00071,user194@example.com,SKU-408,426.0,GBP,2024-12-25,,pending
+ORD00179,user157@example.com,sku131,1322.55,usd,2024-09-04,,COMPLETED
+ORD00010,user104@example.com,,318.33,GBP,Feb-9-2024,test order,COMPLETED
+ORD00128,user132@example.com,SKU-511,351.76,usd,2024-01-25,,COMPLETED
+ORD00119,user103@example.com,SKU-210,154.75,USD,Aug-18-2022,sandbox,refunded
+ORD00250,user48@example.com,sku554,10.34,inr,2022-12-27,,refunded
+ORD00247,user123@example.com,,903.75,Eur,Apr-10-2022,real,Pending
+ORD00121,user64@example.com,SKU-722,1189.65,INR,2023-06-28,sandbox,COMPLETED
+ORD00171,,SKU-229,586.06,EUR,15/2/2022,urgent,pending
+ORD00152,user115@example.com,SKU-748,466.8,inr,26/12/2024,,refunded
+ORD00219,user85@example.com,SKU-829,1415.38,INR,Jun-28-2024,test order,COMPLETED
+ORD00104,user186@example.com,SKU-711,1407.46,EUR,Nov-14-2022,,completed
+ORD00248,user67@example.com,sku564,910.79,usd,Mar-26-2022,test order,COMPLETED
+ORD00032,user178@example.com,SKU-540,1376.33,EUR,26/1/2024,urgent,pending
+ORD00014,user171@example.com,SKU-818,1848.2,USD,2024-05-20,,pending
+ORD00159,,sku770,1576.72,GBP,Mar-11-2024,real,COMPLETED
+ORD00044,user104@example.com,sku887,1251.99,inr,2023-10-09,,pending
+ORD00211,user181@example.com,SKU-986,1324.06,Eur,Nov-27-2022,,Pending
+ORD00201,user177@example.com,SKU-562,1867.67,Eur,25/7/2022,,refunded
+ORD00008,,SKU-523,853.15,EUR,2024-03-23,sandbox,Pending
+ORD00134,user76@example.com,SKU-564,1091.4,INR,8/3/2024,urgent,completed
+ORD00188,user57@example.com,SKU-847,1297.03,USD,2022-11-13,,COMPLETED
+ORD00280,user35@example.com,SKU-537,1817.28,EUR,2022-10-21,,completed
+ORD00254,user117@example.com,SKU-361,1654.13,INR,2024-07-13,,Pending
+ORD00007,user156@example.com,SKU-256,147.46,INR,2022-11-26,test order,Pending
+ORD00094,user180@example.com,SKU-585,336.02,Eur,13/9/2024,test order,Pending
+ORD00113,user121@example.com,,618.69,Eur,2024-06-15,,completed
+ORD00060,user171@example.com,SKU-195,1499.17,INR,2023-10-01,test order,refunded
+ORD00102,user196@example.com,SKU-862,1140.57,INR,Feb-24-2023,,pending
+ORD00082,user194@example.com,SKU-931,580.78,INR,Nov-23-2023,,Pending
+ORD00204,user21@example.com,SKU-161,253.09,INR,26/9/2023,,completed
+ORD00056,user136@example.com,sku675,1378.91,INR,14/4/2023,real,pending
+ORD00266,user20@example.com,sku786,1400.97,USD,2023-05-11,test order,COMPLETED
+ORD00290,user29@example.com,SKU-462,1885.64,INR,Oct-5-2024,sandbox,refunded
+ORD00245,,SKU-868,1003.44,GBP,2023-11-25,real,pending
+ORD00025,user130@example.com,SKU-838,990.12,EUR,2/2/2024,,refunded
+ORD00105,user138@example.com,,165.48,GBP,2022-02-28,urgent,Pending
+ORD00249,user84@example.com,SKU-419,84.52,EUR,15/8/2022,,refunded
+ORD00063,user114@example.com,sku691,866.9,INR,2022-12-05,,Pending
+ORD00170,,sku258,648.03,inr,May-6-2023,test order,refunded
+ORD00268,user150@example.com,SKU-329,504.48,USD,21/6/2023,real,completed
+ORD00163,user131@example.com,SKU-458,187.2,INR,12/11/2024,,refunded
+ORD00176,user15@example.com,sku476,1924.01,inr,2/7/2024,,COMPLETED
+ORD00259,user132@example.com,SKU-385,1672.74,EUR,2024-12-25,,completed
+ORD00061,user145@example.com,SKU-926,1152.52,EUR,14/11/2022,,refunded
+ORD00132,,sku674,1901.82,inr,Feb-1-2022,real,refunded
+ORD00144,user79@example.com,SKU-938,1999.15,inr,2022-03-19,real,completed
+ORD00085,user102@example.com,SKU-791,1346.2,usd,17/11/2023,,completed
+ORD00009,user1@example.com,SKU-126,542.67,inr,1/12/2023,sandbox,COMPLETED
+ORD00222,user149@example.com,SKU-773,85.26,GBP,28/7/2024,,COMPLETED
+ORD00147,,sku373,1513.76,Eur,16/2/2022,sandbox,pending
+ORD00016,user180@example.com,,943.65,usd,2022-12-26,,refunded
+ORD00019,,SKU-880,1304.76,USD,4/6/2023,urgent,pending
+ORD00002,user18@example.com,SKU-447,1832.57,inr,2022-07-25,,COMPLETED
+ORD00251,user121@example.com,SKU-285,367.07,EUR,21/11/2022,,Pending
+ORD00059,,SKU-679,1172.73,INR,17/10/2022,test order,pending
+ORD00228,user197@example.com,sku171,1271.4,Eur,Nov-6-2023,test order,completed
+ORD00006,user165@example.com,SKU-748,985.99,Eur,2024-04-21,test order,pending
+ORD00087,user166@example.com,SKU-193,187.03,EUR,Mar-14-2024,test order,refunded
+ORD00262,user96@example.com,SKU-320,699.18,usd,Aug-28-2022,sandbox,refunded
+ORD00058,user98@example.com,SKU-564,669.95,usd,4/3/2022,urgent,COMPLETED
+ORD00280,user97@example.com,SKU-478,1341.92,USD,Dec-13-2023,,refunded
+ORD00031,user175@example.com,SKU-432,1716.18,usd,2023-03-08,,COMPLETED
+ORD00116,user139@example.com,SKU-681,662.96,inr,2024-02-08,,COMPLETED
+ORD00133,user90@example.com,SKU-153,1388.88,Eur,Oct-20-2024,,completed
+ORD00276,,sku872,579.99,USD,May-25-2024,,COMPLETED
+ORD00246,user101@example.com,sku790,1890.66,INR,28/11/2023,,pending
+ORD00253,user187@example.com,sku553,1628.06,EUR,17/10/2024,test order,pending
+ORD00230,user1@example.com,SKU-597,1102.44,usd,24/7/2023,sandbox,Pending
+ORD00294,user77@example.com,sku524,912.38,EUR,Jan-26-2022,sandbox,Pending
+ORD00192,user185@example.com,SKU-873,632.46,inr,2023-02-08,sandbox,pending
+ORD00055,user137@example.com,SKU-453,649.93,usd,2024-10-03,urgent,refunded
+ORD00279,user59@example.com,SKU-390,1940.52,EUR,Jan-12-2023,urgent,COMPLETED
+ORD00218,user89@example.com,SKU-707,811.33,USD,13/10/2023,real,completed
+ORD00191,user49@example.com,SKU-783,1031.62,Eur,2024-11-06,,completed
+ORD00207,user186@example.com,sku325,1976.3,Eur,2022-01-19,sandbox,completed
+ORD00043,user9@example.com,SKU-713,1317.03,USD,1/5/2022,test order,COMPLETED
+ORD00141,user108@example.com,,1087.47,INR,2/7/2024,,COMPLETED
+ORD00122,user5@example.com,SKU-316,829.43,usd,2024-12-17,sandbox,completed
+ORD00169,user18@example.com,SKU-882,379.23,GBP,2023-12-13,urgent,COMPLETED
+ORD00215,,SKU-435,726.75,inr,21/9/2024,,completed
+ORD00033,,SKU-609,1514.1,USD,Mar-9-2022,,Pending
+ORD00285,user181@example.com,SKU-279,1252.69,usd,2022-09-07,real,pending
+ORD00018,user63@example.com,sku645,1521.18,Eur,18/6/2023,sandbox,refunded
+ORD00125,user103@example.com,SKU-612,411.1,inr,Nov-25-2024,sandbox,COMPLETED
+ORD00022,user139@example.com,SKU-784,1100.69,Eur,Nov-3-2023,,COMPLETED
+ORD00021,user199@example.com,SKU-173,1855.71,EUR,Jul-24-2022,,completed
+ORD00146,,SKU-859,879.04,GBP,8/2/2023,,refunded
+ORD00287,user75@example.com,,1398.01,EUR,15/10/2024,real,Pending
+ORD00015,user188@example.com,,247.25,GBP,10/11/2024,sandbox,Pending
+ORD00062,user148@example.com,SKU-982,1946.43,GBP,Dec-6-2022,real,refunded
+ORD00079,user173@example.com,SKU-539,1219.7,EUR,23/3/2024,sandbox,COMPLETED
+ORD00252,user61@example.com,SKU-826,482.4,Eur,6/8/2023,sandbox,refunded
+ORD00215,user37@example.com,SKU-396,320.96,inr,Sep-26-2024,sandbox,COMPLETED
+ORD00005,user134@example.com,sku121,1103.92,Eur,2022-06-05,test order,Pending
+ORD00281,user77@example.com,SKU-275,1106.74,inr,May-24-2022,,completed
+ORD00083,user143@example.com,SKU-732,190.95,GBP,11/7/2023,test order,refunded
+ORD00154,user189@example.com,SKU-806,1984.55,Eur,Feb-9-2024,,refunded
+ORD00210,user161@example.com,sku190,1826.3,inr,Nov-3-2023,urgent,completed
+ORD00255,user143@example.com,sku208,925.59,usd,2024-06-02,real,Pending
+ORD00277,user89@example.com,sku703,239.34,usd,2024-03-12,,Pending
+ORD00042,user172@example.com,sku180,1665.13,EUR,9/2/2024,,refunded
+ORD00096,user135@example.com,SKU-417,999.26,Eur,Dec-4-2022,,refunded
+ORD00242,user107@example.com,SKU-326,1434.62,inr,Sep-1-2022,sandbox,Pending
+ORD00051,user77@example.com,SKU-272,1020.2,EUR,8/1/2023,sandbox,completed
+ORD00156,user194@example.com,,550.48,usd,2023-03-06,urgent,refunded
+ORD00239,user62@example.com,SKU-643,1670.27,USD,18/12/2024,urgent,COMPLETED
+ORD00164,user77@example.com,SKU-894,1960.59,INR,Jul-8-2023,urgent,completed
+ORD00077,user37@example.com,SKU-844,491.24,usd,14/12/2023,,pending
+ORD00241,user15@example.com,sku760,1104.77,INR,2022-10-12,test order,COMPLETED
+ORD00028,user107@example.com,SKU-341,770.25,inr,17/11/2022,real,Pending
+ORD00130,user35@example.com,SKU-362,1844.13,USD,8/9/2022,test order,refunded
+ORD00046,user66@example.com,sku716,1018.94,usd,2022-08-28,,pending
+ORD00196,user166@example.com,SKU-877,1759.26,EUR,2023-06-03,real,Pending
+ORD00129,,SKU-281,1728.73,EUR,Aug-1-2023,sandbox,Pending
+ORD00068,user95@example.com,SKU-743,556.11,USD,10/10/2023,,COMPLETED
+ORD00209,,sku872,1581.06,INR,Oct-8-2023,,pending
+ORD00224,user49@example.com,SKU-693,832.81,inr,2024-08-25,sandbox,Pending
+ORD00001,,sku678,1868.83,INR,24/9/2022,,Pending
+ORD00298,user155@example.com,SKU-739,1017.94,usd,1/7/2022,,refunded
+ORD00240,user19@example.com,SKU-742,1642.0,INR,18/6/2024,,completed
+ORD00112,user195@example.com,SKU-550,569.26,GBP,Jan-11-2022,sandbox,refunded
+ORD00076,user172@example.com,,600.62,EUR,Jul-28-2024,,COMPLETED
+ORD00243,user123@example.com,SKU-410,1175.94,EUR,May-4-2022,real,COMPLETED
+ORD00115,user86@example.com,SKU-705,1997.81,Eur,Apr-14-2023,,pending
+ORD00165,user4@example.com,,981.83,Eur,5/12/2023,test order,COMPLETED
+ORD00197,user49@example.com,SKU-417,301.45,INR,2/4/2024,real,Pending
+ORD00069,user31@example.com,sku138,1079.47,USD,2024-06-15,test order,COMPLETED
+ORD00193,user194@example.com,,693.52,INR,Feb-19-2022,sandbox,Pending
+ORD00269,user63@example.com,sku178,1106.08,Eur,Mar-21-2023,urgent,COMPLETED
+ORD00225,user181@example.com,SKU-975,1089.14,Eur,19/10/2022,real,pending
+ORD00030,user62@example.com,SKU-708,913.41,GBP,2024-03-08,real,COMPLETED
+ORD00185,user199@example.com,SKU-573,646.95,INR,2023-06-26,sandbox,pending
+ORD00238,user120@example.com,SKU-910,381.36,Eur,2024-12-11,sandbox,pending
+ORD00003,user92@example.com,SKU-142,1396.51,inr,2023-05-08,,COMPLETED
+ORD00244,user93@example.com,SKU-929,1145.74,EUR,7/3/2024,,Pending
+ORD00142,user128@example.com,SKU-292,470.96,usd,5/2/2022,,COMPLETED
+ORD00065,user185@example.com,SKU-587,1552.21,usd,2023-06-14,,Pending
+ORD00260,user82@example.com,sku163,92.08,inr,18/6/2022,,refunded
+ORD00295,user95@example.com,SKU-930,1490.69,USD,2023-08-09,,COMPLETED
+ORD00048,user12@example.com,SKU-451,1411.93,INR,3/3/2024,test order,pending
+ORD00098,user57@example.com,SKU-186,1623.76,EUR,2024-12-20,,completed
+ORD00058,user5@example.com,SKU-276,775.23,INR,7/6/2022,urgent,pending
+ORD00272,user150@example.com,,1329.06,usd,23/4/2023,sandbox,refunded
+ORD00153,user107@example.com,sku549,1642.39,inr,2024-01-22,urgent,refunded
+ORD00265,user51@example.com,sku724,1961.73,USD,2023-03-01,,COMPLETED
+ORD00004,user98@example.com,sku481,993.18,EUR,2023-09-24,,refunded
+ORD00263,user63@example.com,SKU-496,78.85,USD,Apr-4-2023,,COMPLETED
+ORD00013,user168@example.com,SKU-446,1007.07,INR,26/3/2022,test order,Pending
+ORD00161,user87@example.com,sku153,1182.41,inr,2/4/2022,real,pending
+ORD00040,user126@example.com,SKU-762,1740.05,USD,27/7/2023,urgent,Pending
+ORD00282,user165@example.com,SKU-437,1749.01,EUR,Nov-21-2022,,Pending
+ORD00221,user118@example.com,SKU-794,883.41,USD,Oct-9-2022,,refunded
+ORD00013,user91@example.com,SKU-358,1054.27,inr,3/4/2024,real,completed
+ORD00053,user185@example.com,SKU-772,916.57,USD,2022-02-28,,completed
+ORD00299,user48@example.com,SKU-717,1446.28,INR,2022-01-15,,COMPLETED
+ORD00258,user139@example.com,sku441,822.91,usd,6/10/2023,,completed
+ORD00131,user16@example.com,SKU-779,1311.29,INR,Jul-16-2022,real,COMPLETED
+ORD00300,user20@example.com,SKU-458,312.95,Eur,2024-07-06,,completed
+ORD00057,user172@example.com,SKU-771,941.63,INR,2022-03-09,real,pending
+ORD00093,,SKU-501,1938.56,Eur,2023-03-02,,pending
+ORD00103,,sku825,680.43,Eur,Oct-20-2022,,Pending
+ORD00150,user162@example.com,sku417,1386.95,usd,May-16-2023,,COMPLETED
+ORD00230,user182@example.com,sku758,1301.42,USD,Aug-2-2022,sandbox,pending
+ORD00220,user56@example.com,sku932,1704.27,USD,2023-03-14,test order,COMPLETED
+ORD00135,user96@example.com,SKU-819,1705.42,inr,21/9/2022,,completed
+ORD00127,,SKU-856,1719.39,GBP,Sep-26-2022,,Pending
+ORD00072,user158@example.com,sku639,763.12,INR,2024-06-16,,completed
+ORD00016,user169@example.com,SKU-786,636.74,EUR,Aug-12-2024,,Pending
+ORD00074,user2@example.com,sku470,1438.84,Eur,Jun-13-2023,,COMPLETED
+ORD00235,user106@example.com,,1520.01,EUR,1/6/2024,urgent,Pending
+ORD00203,,SKU-319,1745.4,Eur,1/5/2022,urgent,COMPLETED
+ORD00256,user71@example.com,SKU-884,76.62,GBP,2024-06-25,urgent,refunded
+ORD00267,user74@example.com,SKU-331,141.5,usd,Apr-6-2022,urgent,pending
+ORD00271,,SKU-258,1264.17,USD,22/4/2023,,COMPLETED
+ORD00109,user173@example.com,,1842.25,usd,Dec-2-2022,urgent,COMPLETED
+ORD00034,user46@example.com,SKU-203,1994.86,USD,Jul-12-2022,,pending
+ORD00138,,SKU-652,1494.8,EUR,8/10/2023,,COMPLETED
+ORD00206,,SKU-639,870.77,inr,Dec-12-2024,test order,Pending
+ORD00162,user50@example.com,,201.39,usd,23/12/2023,real,pending
+ORD00017,user65@example.com,SKU-884,1269.33,EUR,Oct-5-2024,,Pending
+ORD00118,user69@example.com,sku711,1745.8,Eur,27/8/2024,real,Pending
+ORD00029,user21@example.com,SKU-266,890.14,usd,2022-08-02,test order,pending
+ORD00167,user104@example.com,SKU-809,1389.53,EUR,2/4/2024,,refunded
+ORD00113,user63@example.com,SKU-928,1807.33,Eur,1/9/2023,,completed
+ORD00139,user58@example.com,sku838,96.75,USD,11/10/2022,test order,pending
+ORD00293,user21@example.com,SKU-520,1593.31,Eur,11/12/2022,test order,COMPLETED
+ORD00237,user167@example.com,sku836,590.27,GBP,2022-01-05,real,COMPLETED
+ORD00289,user24@example.com,SKU-554,752.81,USD,Dec-5-2022,sandbox,Pending
+ORD00126,user97@example.com,SKU-870,295.41,USD,Jun-3-2023,,Pending
+ORD00274,user15@example.com,SKU-559,1064.68,INR,Nov-13-2024,,Pending
+ORD00088,user180@example.com,SKU-344,1134.03,EUR,11/5/2023,urgent,COMPLETED
+ORD00037,user128@example.com,SKU-928,1586.08,GBP,6/12/2023,sandbox,COMPLETED
+ORD00137,user166@example.com,SKU-955,344.12,INR,Aug-21-2023,,COMPLETED
+ORD00108,user145@example.com,SKU-794,162.54,Eur,23/9/2024,,refunded
+ORD00182,user25@example.com,SKU-551,1742.32,USD,Jun-8-2024,,COMPLETED
+ORD00190,user11@example.com,SKU-388,1241.32,EUR,Mar-13-2023,sandbox,COMPLETED
+ORD00084,user178@example.com,SKU-614,485.46,EUR,Dec-10-2022,sandbox,Pending
+ORD00187,user122@example.com,SKU-265,1826.09,USD,24/1/2024,,pending
+ORD00233,user20@example.com,SKU-920,290.52,Eur,Jul-28-2024,real,completed
+ORD00143,user72@example.com,SKU-993,924.99,Eur,6/10/2023,urgent,COMPLETED
+ORD00014,user145@example.com,sku756,511.68,EUR,Apr-21-2024,,completed
+ORD00052,user46@example.com,SKU-480,514.38,USD,16/3/2023,real,completed
+ORD00120,user81@example.com,sku205,23.75,GBP,Feb-8-2023,,refunded
+ORD00072,,SKU-628,1610.24,Eur,2022-11-03,real,pending
+ORD00149,user37@example.com,SKU-391,1802.91,INR,Nov-21-2024,test order,refunded
+ORD00117,user183@example.com,sku264,1356.83,INR,2023-01-09,,refunded
+ORD00024,user20@example.com,SKU-625,320.16,INR,8/12/2022,urgent,completed
+ORD00036,user145@example.com,SKU-547,886.25,inr,2023-02-24,,refunded
+ORD00099,user100@example.com,sku327,694.4,INR,2/7/2023,test order,pending
+ORD00296,user139@example.com,SKU-457,1177.21,Eur,Jul-6-2023,test order,pending
+ORD00186,user194@example.com,SKU-524,1279.68,Eur,2023-06-18,,COMPLETED
+ORD00151,user177@example.com,,851.5,USD,2022-08-26,test order,completed
+ORD00283,user129@example.com,SKU-341,503.95,GBP,Nov-25-2024,,completed
+ORD00041,user89@example.com,SKU-183,1691.38,EUR,6/8/2022,,pending
+ORD00194,,SKU-128,402.44,Eur,10/1/2023,,completed
+ORD00064,user20@example.com,SKU-201,772.46,EUR,2022-02-11,real,Pending
+ORD00275,user197@example.com,sku765,969.0,inr,13/3/2024,,COMPLETED
+ORD00236,user153@example.com,SKU-249,478.23,Eur,18/2/2023,urgent,COMPLETED
+ORD00023,user199@example.com,SKU-393,1145.99,GBP,Oct-16-2024,sandbox,refunded
+ORD00136,user163@example.com,sku583,1151.75,usd,14/11/2022,,refunded
+ORD00217,user116@example.com,sku242,1985.42,Eur,Jul-6-2022,,pending
+ORD00177,user92@example.com,SKU-580,593.99,inr,11/4/2022,,COMPLETED
+ORD00184,user97@example.com,SKU-105,1956.0,inr,2024-09-24,,pending
+ORD00050,user175@example.com,SKU-119,1318.17,inr,Sep-9-2024,,pending
+ORD00195,user98@example.com,SKU-955,552.59,Eur,2023-04-04,,completed
+ORD00048,,SKU-844,1134.03,usd,13/10/2024,urgent,completed
+ORD00053,user64@example.com,SKU-533,1373.17,Eur,2022-01-12,,refunded
+ORD00173,user22@example.com,SKU-395,1490.61,Eur,14/2/2023,urgent,refunded
+ORD00111,user98@example.com,sku224,102.84,USD,Nov-20-2023,,refunded
+ORD00080,user163@example.com,,1214.78,GBP,4/1/2022,sandbox,completed
+ORD00143,user100@example.com,SKU-912,995.97,usd,21/5/2022,,pending
+ORD00175,user28@example.com,SKU-164,1808.79,inr,2022-05-26,,pending
+ORD00217,,sku611,575.96,EUR,2023-08-22,test order,pending
